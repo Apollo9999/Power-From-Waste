@@ -11,6 +11,9 @@ Then any user is able to search and filter by what they are interested in and ma
 > **Note:** Along with the platform we also built and deployed an API with FastAPI which is deployed [here](https://z5kmfo.deta.dev/docs).
 
 
+Video link https://youtu.be/cD0Xwhzlqao
+
+
 Many industries generate waste in the course of their activities, often ending up having to pay collection services for it, which then ends up in landfills.
 
 In a study carried out in 2000 by across the globe, it was estimated that in 2015 there would be around 29 million tons of industrial waste generated that year, of which around 500 thousand tons would be from the textile and footwear industries.
